@@ -1,0 +1,2 @@
+# staticFile_LocalStorage
+通过localstorage缓存JS文件，第二次请求时，直接从localStorage读取
